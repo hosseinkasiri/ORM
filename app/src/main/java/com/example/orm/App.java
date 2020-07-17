@@ -8,7 +8,6 @@ import com.example.orm.model.DaoSession;
 import org.greenrobot.greendao.database.Database;
 
 public class App extends Application {
-
     private static App app;
     private DaoSession mDaoSession;
 
