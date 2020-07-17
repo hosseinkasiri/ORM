@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ORM</string>
+    <string name="name">name</string>
+    <string name="save">save</string>
 </resources>
